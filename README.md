@@ -19,4 +19,4 @@
   <a href="https://www.linkedin.com/in/lucas-mendonça-martins-46641b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Medonca09/Medonca09/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/medonca09/medonca09/blob/main/github-contribution-grid-snake.svg)
